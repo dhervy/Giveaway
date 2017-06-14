@@ -1,6 +1,6 @@
 # Giveaway
 
-La fonction giveaway prend une liste ou un tuple en paramètre et renvoie un dictionnaire,
-avec comme clé le nom de la personne qui offre le cadeau et comme valeur la nom de la personne qui recois le cadeau.
-
-À partir de 3 éléments et plus, Il est impossible de tomber sur deux personnes qui s'envoient réciproquement un cadeau.
+The give_away function is used to make a gift distribution.
+    It takes a list of names and a list of couples in parameter and returns a dictionary containing as key
+     the name of the person offering the gift and as value the person receiving the gift.
+    Your list must contain more than three elements or three items but with no pairs.
